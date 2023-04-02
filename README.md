@@ -1,3 +1,3 @@
-# Final Project for the Python class
+# Final Project 
 
-Learning Management System Project for the university's Python Course 
+Learning Management System Project for the Saarland university's Python Course 
