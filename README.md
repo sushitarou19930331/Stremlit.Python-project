@@ -1,2 +1,3 @@
-# lms_uds
-Learning Management System Project for Python Course UdS
+# Final Project for the Python class
+
+Learning Management System Project for the university's Python Course 
